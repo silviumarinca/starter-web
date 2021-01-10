@@ -1,1 +1,4 @@
 .DS_STORE
+/index.html 
+/somethingelse.html 404 
+*.log
