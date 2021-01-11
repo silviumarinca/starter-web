@@ -14,4 +14,4 @@ fork item an do modification
 
 ## Copyright
 
-2014Git.Training
+2014Git.Training. All Rights Reserved
