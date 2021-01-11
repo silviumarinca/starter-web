@@ -3,8 +3,8 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
-
+    Silviu Marinca 
+    
 # THANKS
 
     <name>
